@@ -17,7 +17,7 @@
 		0802752526978DAF000747EF /* ANFScrollableNavWithPagerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0802752426978DAF000747EF /* ANFScrollableNavWithPagerUITests.swift */; };
 		0802753326979063000747EF /* MenuIndicatorRoundedEdge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0802753226979063000747EF /* MenuIndicatorRoundedEdge.swift */; };
 		08027535269791BC000747EF /* SectionHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08027534269791BC000747EF /* SectionHomeViewController.swift */; };
-		0875395E2698490000A711D8 /* Screen shot1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0875395D2698490000A711D8 /* Screen shot1.gif */; };
+		0875396026984AC500A711D8 /* screenshot1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0875395F26984AC500A711D8 /* screenshot1.gif */; };
 		33897EBB3C092C6AB6FE63A2 /* Pods_ANFScrollableNavWithPagerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89EC806C8C90FC6092E83A94 /* Pods_ANFScrollableNavWithPagerTests.framework */; };
 		718C45033480E61E60243DDA /* Pods_ANFScrollableNavWithPager_ANFScrollableNavWithPagerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B488027E9ADCDDD9086A137 /* Pods_ANFScrollableNavWithPager_ANFScrollableNavWithPagerUITests.framework */; };
 		B532BB2C59FEB9DFEAEF863D /* Pods_ANFScrollableNavWithPager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFA0A0C062C7F4F536387551 /* Pods_ANFScrollableNavWithPager.framework */; };
@@ -57,7 +57,7 @@
 		0802752626978DAF000747EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0802753226979063000747EF /* MenuIndicatorRoundedEdge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuIndicatorRoundedEdge.swift; sourceTree = "<group>"; };
 		08027534269791BC000747EF /* SectionHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHomeViewController.swift; sourceTree = "<group>"; };
-		0875395D2698490000A711D8 /* Screen shot1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Screen shot1.gif"; sourceTree = "<group>"; };
+		0875395F26984AC500A711D8 /* screenshot1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshot1.gif; sourceTree = "<group>"; };
 		10DCA1F59FB838C1EF7E241B /* Pods-ANFScrollableNavWithPager.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ANFScrollableNavWithPager.debug.xcconfig"; path = "Target Support Files/Pods-ANFScrollableNavWithPager/Pods-ANFScrollableNavWithPager.debug.xcconfig"; sourceTree = "<group>"; };
 		179745BF7161491ECEB05F63 /* Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests.debug.xcconfig"; path = "Target Support Files/Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests/Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5B488027E9ADCDDD9086A137 /* Pods_ANFScrollableNavWithPager_ANFScrollableNavWithPagerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ANFScrollableNavWithPager_ANFScrollableNavWithPagerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -165,7 +165,7 @@
 		0875395C269848D600A711D8 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				0875395D2698490000A711D8 /* Screen shot1.gif */,
+				0875395F26984AC500A711D8 /* screenshot1.gif */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -303,8 +303,8 @@
 			files = (
 				0802750F26978DAE000747EF /* LaunchScreen.storyboard in Resources */,
 				0802750C26978DAE000747EF /* Assets.xcassets in Resources */,
+				0875396026984AC500A711D8 /* screenshot1.gif in Resources */,
 				0802750A26978DAC000747EF /* Main.storyboard in Resources */,
-				0875395E2698490000A711D8 /* Screen shot1.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
