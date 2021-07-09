@@ -1,0 +1,6 @@
+framework module Pods_ANFScrollableNavWithPagerTests {
+  umbrella header "Pods-ANFScrollableNavWithPagerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

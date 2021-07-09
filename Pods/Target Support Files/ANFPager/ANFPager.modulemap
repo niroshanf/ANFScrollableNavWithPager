@@ -1,0 +1,6 @@
+framework module ANFPager {
+  umbrella header "ANFPager-umbrella.h"
+
+  export *
+  module * { export * }
+}

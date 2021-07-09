@@ -1,0 +1,6 @@
+framework module ANFScrollableNav {
+  umbrella header "ANFScrollableNav-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests/Pods-ANFScrollableNavWithPager-ANFScrollableNavWithPagerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ANFPager/ANFPager.framework
+${BUILT_PRODUCTS_DIR}/ANFScrollableNav/ANFScrollableNav.framework

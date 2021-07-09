@@ -1,0 +1,31 @@
+PODS:
+  - ANFPager (0.1.1)
+  - ANFScrollableNav (0.1.1)
+
+DEPENDENCIES:
+  - ANFPager (from `https://github.com/niroshanf/ANFPager.git`, tag `0.1.1`)
+  - ANFScrollableNav (from `https://github.com/niroshanf/ANFScrollableNav.git`, tag `0.1.1`)
+
+EXTERNAL SOURCES:
+  ANFPager:
+    :git: https://github.com/niroshanf/ANFPager.git
+    :tag: 0.1.1
+  ANFScrollableNav:
+    :git: https://github.com/niroshanf/ANFScrollableNav.git
+    :tag: 0.1.1
+
+CHECKOUT OPTIONS:
+  ANFPager:
+    :git: https://github.com/niroshanf/ANFPager.git
+    :tag: 0.1.1
+  ANFScrollableNav:
+    :git: https://github.com/niroshanf/ANFScrollableNav.git
+    :tag: 0.1.1
+
+SPEC CHECKSUMS:
+  ANFPager: 7f62b5abbfa582a5c5f9e4eda2c885961377dc1e
+  ANFScrollableNav: 1654898ea73268406efd987ca4b0266b583ce175
+
+PODFILE CHECKSUM: e25c82bd0f45eb5c40611a845453c871d48215a8
+
+COCOAPODS: 1.10.1
